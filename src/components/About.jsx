@@ -21,7 +21,7 @@ export default function About() {
             </p>
           </div>
           <div className="about-image">
-            <span>📷 Add Your Photo Here</span>
+            <img src="/profile.jpg" alt="Faraz Ahmed" style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: '10px' }} />
           </div>
         </div>
       </div>

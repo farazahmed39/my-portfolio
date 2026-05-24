@@ -10,7 +10,7 @@ export default function Navbar() {
     <nav className="navbar">
       <div className="navbar-container">
         <div className="navbar-logo">
-          <img src="/logo.png" alt="Faraz Ahmed Logo" className="logo-image" style={{ height: '40px', marginRight: '10px' }} />
+          <img src="/logo.png" alt="Faraz Ahmed Logo" className="logo-image" style={{ height: '40px', width: '40px', borderRadius: '50%', objectFit: 'cover', marginRight: '10px'}} />
           Faraz Ahmed
         </div>
         <ul className="navbar-links">

@@ -14,7 +14,7 @@ export default function Footer() {
           <a href="https://github.com" target="_blank" rel="noopener noreferrer">GitHub</a>
           <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">LinkedIn</a>
           <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">Twitter</a>
-          <a href="mailto:your.email@example.com">Email</a>
+          <a href="mailto:farazahmedkhoso90@gmail.com" title="farazahmedkhoso90@gmail.com">Email</a>
         </div>
         <div className="footer-links">
           <a onClick={() => scrollToSection('about')}>About</a>

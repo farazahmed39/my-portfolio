@@ -46,5 +46,13 @@ export const projectsData = [
     image: '/projects/project6.jpg',
     tags: ['React', 'Vite', 'CSS'],
     link: '#'
+  },
+  {
+    id: 7,
+    title: '3D Virtual Tour of Quest University Nawabshah',
+    description: 'Final year project - An immersive 3D virtual tour of Quest University campus. Built with Blender for 3D modeling and assets. Showcases university buildings, facilities, and navigation through interactive 3D environment.',
+    image: '/projects/quest-tour.jpg',
+    tags: ['Blender', '3D Modeling', 'Virtual Tour', 'UnityWebGL'],
+    link: '#'
   }
 ]

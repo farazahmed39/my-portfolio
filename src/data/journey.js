@@ -21,6 +21,11 @@ export const journeyData = [
   },
   {
     year: '2024',
+    title: 'Final Year Project - 3D Virtual Tour',
+    description: 'Completed final year project: 3D Virtual Tour of Quest University Nawabshah. Used Blender for 3D modeling and assets. Created an immersive interactive environment showcasing campus facilities and buildings.'
+  },
+  {
+    year: '2024',
     title: 'Graduation & Beyond',
     description: 'Graduated with honors. Started freelancing and building personal projects. Continuously learning new technologies and best practices.'
   }

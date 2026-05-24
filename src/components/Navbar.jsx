@@ -9,7 +9,11 @@ export default function Navbar() {
   return (
     <nav className="navbar">
       <div className="navbar-container">
-        <div className="navbar-logo">🚀 Portfolio</div>
+        <div className="navbar-logo">
+          {/* Replace 🚀 with your logo image if you have one */}
+          <img src="/logo.png" alt="Logo" className="logo-image" style={{ height: '40px', marginRight: '10px' }} />
+          Faraz Ahmed
+        </div>
         <ul className="navbar-links">
           <li><a onClick={() => scrollToSection('hero')}>Home</a></li>
           <li><a onClick={() => scrollToSection('about')}>About</a></li>
